@@ -102,6 +102,7 @@ in
       inherit pkgs;
       inherit username;
     })
+    (import ../../scripts/dev_make.nix { inherit pkgs; })
     (import ../../scripts/web-search.nix { inherit pkgs; })
     (import ../../scripts/rofi-launcher.nix { inherit pkgs; })
     (import ../../scripts/screenshootin.nix { inherit pkgs; })
