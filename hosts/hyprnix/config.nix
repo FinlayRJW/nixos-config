@@ -235,7 +235,6 @@
   };
 
   environment.systemPackages = with pkgs; [
-    fzf
     lazygit
     vim
     wget
