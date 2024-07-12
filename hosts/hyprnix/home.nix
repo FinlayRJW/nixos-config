@@ -185,6 +185,7 @@ in
         ls = "eza --icons";
         ll = "eza -lh --icons --grid --group-directories-first";
         la = "eza -lah --icons --grid --group-directories-first";
+        gg = "lazygit";
         ".." = "cd ..";
       };
     };
