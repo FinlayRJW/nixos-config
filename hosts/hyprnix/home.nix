@@ -186,7 +186,6 @@ in
         ll = "eza -lh --icons --grid --group-directories-first";
         la = "eza -lah --icons --grid --group-directories-first";
         ".." = "cd ..";
-        gg = "lazygit";
       };
     };
     home-manager.enable = true;
