@@ -240,11 +240,11 @@
     killall
     eza
     git
+    brave
     cmatrix
     lolcat
     fastfetch
     htop
-    brave
     libvirt
     lxqt.lxqt-policykit
     lm_sensors

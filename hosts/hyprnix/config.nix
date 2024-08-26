@@ -243,7 +243,6 @@
     git
     cmatrix
     htop
-    brave
     libvirt
     lxqt.lxqt-policykit
     lm_sensors
@@ -290,7 +289,15 @@
     spotify
     neovide
     greetd.tuigreet
+    jetbrains-toolbox
+    jdk
+    gradle
+    obsidian
+    qbittorrent
+    brave
+    tor-browser
   ];
+
 
   fonts = {
     packages = with pkgs; [
